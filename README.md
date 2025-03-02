@@ -1,9 +1,5 @@
 # Next-Generation-Sequencing
 
-NGS_WES_Pipeline
-
-Genomic Data Analysis Pipeline
-
 Introduction
 
 This repository provides a comprehensive pipeline for genomic data analysis, specifically focusing on whole-genome
@@ -13,9 +9,7 @@ The provided commands and scripts guide users through the entire workfiow from r
 
 Requirements
 
-
 To run this pipeline, ensure the following are installed:
-
 
 * Docker: For running the GATK container and other tools in isolated environments.
 * GATK: The Genome Analysis Toolkit for variant discovery in high-throughput sequencing data.
