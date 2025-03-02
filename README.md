@@ -61,8 +61,8 @@ Step 8: Index the Reference Genome and Perform Alignment
 
 •	Explanation:
 
-o	bwa index: Creates an index of the reference genome to allow efficient alignment.
-o	bwa mem: Aligns the sequencing reads to the reference genome and outputs a Sequence Alignment Map (SAM) file.
+	bwa index: Creates an index of the reference genome to allow efficient alignment.
+	bwa mem: Aligns the sequencing reads to the reference genome and outputs a Sequence Alignment Map (SAM) file.
 ________________________________________
 Step 9: Convert, Sort, and Index the Alignment
 
@@ -95,7 +95,7 @@ freebayes
 •	Explanation:
 
 	bgzip: Compresses the VCF file.
-  tabix: Indexes the compressed VCF file for rapid querying.
+        tabix: Indexes the compressed VCF file for rapid querying.
 ________________________________________
 Final Outcome
 
