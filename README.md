@@ -17,7 +17,6 @@ To run this pipeline, ensure the following are installed:
 * SAMtools: For manipulating SAM/BAM files
 * FASTQC: For quality control of raw sequencing data
 * FASTP: For quality trimming and adapter removal from FASTQ files
-* ANNOVAR: For functional annotation of genetic variants.
 
 Pipeline
 
